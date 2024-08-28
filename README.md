@@ -16,7 +16,7 @@ The repository consists of the following files:
 /root
 │── README.md                                                                                # This file
 │── Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.Rmd            # R Markdown file with all analysis and forecasting
-│── Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.pdf            # The full text of the case study paper (compiled from R Markdown)
+│── Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.pdf            # The full text of the case study paper
 │── consumption_data.csv                                                                     # The dataset used for analysis
 ```
 
