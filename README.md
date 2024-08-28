@@ -14,10 +14,10 @@ The repository consists of the following files:
 
 ```
 /root
-│── README.md              # This file
-│── CaseStudy.Rmd          # R Markdown file with all analysis and forecasting
-│── CaseStudy.pdf          # The full text of the case study paper (compiled from R Markdown)
-│── consumption_data.csv   # The dataset used for analysis
+│── README.md                                                                                # This file
+│── Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.Rmd            # R Markdown file with all analysis and forecasting
+│── Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.pdf            # The full text of the case study paper (compiled from R Markdown)
+│── consumption_data.csv                                                                     # The dataset used for analysis
 ```
 
 ## Methods Used
@@ -43,7 +43,7 @@ For detailed analysis and results, refer to the `CaseStudy.pdf` file.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Veternum/TSA-Forecast-Paper.git
    ```
 
 2. Open the R Markdown file (`CaseStudy.Rmd`) in RStudio or any text editor.
