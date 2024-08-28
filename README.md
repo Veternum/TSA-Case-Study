@@ -36,7 +36,7 @@ The results of this case study include:
 - An in-depth analysis of historical electricity consumption trends in Indonesia.
 - Insights and recommendations for policymakers based on the forecast results.
 
-For detailed analysis and results, refer to the `CaseStudy.pdf` file.
+For detailed analysis and results, refer to the `Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.pdf` file.
 
 ## Usage
 
@@ -46,7 +46,7 @@ For detailed analysis and results, refer to the `CaseStudy.pdf` file.
    git clone https://github.com/Veternum/TSA-Forecast-Paper.git
    ```
 
-2. Open the R Markdown file (`CaseStudy.Rmd`) in RStudio or any text editor.
+2. Open the R Markdown file (`Analyzing and Forecasting Per Capita Electricity Consumption in Indonesia.Rmd`) in RStudio or any text editor.
 
 3. Run the code chunks within the R Markdown file to reproduce the analysis and generate the forecasts.
 
